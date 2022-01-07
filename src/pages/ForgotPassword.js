@@ -52,7 +52,7 @@ const Login = () => {
 									className="input100"
 									type="text"
 									name="email"
-									placeholder="Type your username"
+									placeholder="Type your Email"
 									onChange={handleChange}
 								/>
 								<span className="focus-input100" data-symbol="" />
